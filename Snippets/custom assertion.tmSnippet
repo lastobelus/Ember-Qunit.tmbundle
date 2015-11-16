@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>QUnit.assert.${1:custom} = function( ${2:value}, ${3:expected}, message ) {
+  this.push( ${4:test}, $2, $3, message );
+};</string>
+	<key>name</key>
+	<string>custom assertion</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>ascus</string>
+	<key>uuid</key>
+	<string>5E648485-B88C-4CE9-8F88-E64C877DBBB3</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>ynfgboryhf@znp.pbz</string>
+	<key>contactName</key>
+	<string>Michael Johnston</string>
+	<key>description</key>
+	<string>Ember-Qunit Test Framework Snippets</string>
+	<key>name</key>
+	<string>Ember-Qunit</string>
+	<key>uuid</key>
+	<string>D3774A97-0C66-4454-AE22-D0A52FF50D58</string>
+</dict>
+</plist>

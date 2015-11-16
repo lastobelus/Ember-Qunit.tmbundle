@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assert.notDeepEqual( ${1:obj}, ${2:other}, '${3:message}' );</string>
+	<key>name</key>
+	<string>assert.notDeepEqual</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asnde</string>
+	<key>uuid</key>
+	<string>BC50C38E-6377-4292-9B7E-AC6A124851F1</string>
+</dict>
+</plist>

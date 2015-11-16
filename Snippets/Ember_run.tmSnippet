@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Ember.run(() =&gt; {
+  $1
+});$0</string>
+	<key>name</key>
+	<string>Ember.run</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>emrun</string>
+	<key>uuid</key>
+	<string>10CDD2A3-5E96-4A0B-BB11-6B7EC3105492</string>
+</dict>
+</plist>

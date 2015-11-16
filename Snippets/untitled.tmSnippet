@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assert.deepEqual( ${1:obj}, ${2:other}, '${3:message}' );</string>
+	<key>name</key>
+	<string>assert.deepEqual</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asde</string>
+	<key>uuid</key>
+	<string>D42B9CBB-C744-4DF6-BFC5-613C94D7EB6A</string>
+</dict>
+</plist>

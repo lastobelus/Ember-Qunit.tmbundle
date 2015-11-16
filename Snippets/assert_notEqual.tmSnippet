@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assert.notEqual( ${1:obj}, ${2:other}, '${3:message}' );$0</string>
+	<key>name</key>
+	<string>assert.notEqual</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asne</string>
+	<key>uuid</key>
+	<string>8F4280CB-D121-4481-89E0-4C1C6DE0117A</string>
+</dict>
+</plist>

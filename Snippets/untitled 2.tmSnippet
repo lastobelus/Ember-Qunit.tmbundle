@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>find( '#${1:css-id}' ).text().trim()$0</string>
+	<key>name</key>
+	<string>find().text().trim()</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>fint</string>
+	<key>uuid</key>
+	<string>2CDA87A2-3E43-46B2-9CAD-BFBC7853DF90</string>
+</dict>
+</plist>
